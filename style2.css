@@ -1,0 +1,97 @@
+
+
+
+body{
+    background-image: url(https://c.tenor.com/lR11pvnP7LIAAAAd/tenor.gif);
+  background-repeat: no-repeat;
+  background-size:30%;
+  height: 100vh;
+  background-position: center;
+  background-color: black;
+  
+  }
+  
+  
+  ul
+  {
+  
+  justify-content: space-around;
+  display: flex;
+  list-style: none;
+  padding: 100px;
+  }
+  a
+  
+ {
+    
+  color: rgb(136, 33, 156);
+  text-decoration:wavy;
+text-decoration-color:rgb(218, 63, 2);
+text-size-adjust: 100;
+text-shadow:rgb(10, 47, 212) height=100px;
+  
+.column {
+  float: right;
+  width:200px;
+}
+
+.row:after {
+  content:"";
+  display: table;
+  clear: both;
+} 
+
+  }
+  .center
+  {
+  text-align: center;
+  }
+
+   a:hover 
+   {
+    color: rgb(138, 214, 16);
+
+gambiarra->
+    ul
+      {
+      
+      justify-content:space-around;
+      display: flex;
+      list-style: none;
+      padding: 200px;
+      }
+     
+      
+      
+      * {box-sizing: border-box;}
+
+      .img-zoom-container {
+        position: relative;
+      }
+      
+      .img-zoom-lens {
+        position: absolute;
+        border: 1px solid #d4d4d4;
+        /*set the size of the lens:*/
+        width: 40px;
+        height: 40px;
+      }
+      
+      .img-zoom-result {
+        border: 1px solid #d4d4d4;
+        /*set the size of the result div:*/
+        width: 300px;
+        height: 300px;
+      }
+    
+    }
+   
+  
+  
+  
+
+
+
+
+
+  
